@@ -3,7 +3,7 @@
 <p></p>
 
 <div align="center"><b><i>Za każdym razem będziemy się mylić.....</i></b> :sweat:</div>
-<div align="center"><b><i>.....Ale czy to naprawdę są błędy? :wink:</i></b></div>
+<div align="center"><b><i>.....Ale czy to naprawdę są błędy?</i></b>:wink:</div>
 
 <div align="center" class="range" style="padding: 1rem; background-color: #d4edda; border: 1px solid #d4edda; border-radius: 4px; margin: 1rem 0;"> <i>Życie przynosi wiele niewytłumaczalnych i dziwnych momentów, które ciężko od razu wyjaśnić</i></div>
 
