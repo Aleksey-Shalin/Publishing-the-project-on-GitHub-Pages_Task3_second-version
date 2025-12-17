@@ -1,5 +1,5 @@
 <div align="center"><h2><i> Dziwactwa życia </h2></i> </div>
-<div align="center"><i>Życie jest tak niezrozumiałe, że czasami jest bardzo trudno coś wytłumaczyć nawet sobie*</i>< /div>
+<div align="center"><i>Życie jest tak niezrozumiałe, że czasami jest bardzo trudno coś wytłumaczyć nawet sobie</i></div>
 <p></p>
 
 <div align="center"><b><i>Za każdym razem będziemy się mylić.....</i></b> :sweat:</div>
@@ -9,7 +9,7 @@
 
 <html>
 <body>
-<div align="center" class="range" style="padding: 1rem; background-color: #B0C4DE; border: 1px solid #B0C4DE; border-radius: 4px; margin: 1rem 0;">*Na poniższym zdjęciu każda osoba widzi coś wyjątkowego .......Na przykład, co państwo doznają patrząc na to zdjęcie?*<br> 
+<div align="center" class="range" style="padding: 1rem; background-color: #B0C4DE; border: 1px solid #B0C4DE; border-radius: 4px; margin: 1rem 0;"><i>Na poniższym zdjęciu każda osoba widzi coś wyjątkowego .......Na przykład, co państwo doznają patrząc na to zdjęcie?</i><br> 
 <style>  
 img { opacity: 1;  
 transition: opacity 1.7s ease-in-out;  
